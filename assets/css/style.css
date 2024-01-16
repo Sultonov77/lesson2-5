@@ -1,0 +1,98 @@
+.login__here {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.welcome__back {
+  color: var(--800, #2d3748);
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 25px;
+}
+.login__accaunt {
+  color: var(--900, #1a202c);
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.email__addres {
+  color: var(--700, #4a5568);
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.form-control {
+  display: block;
+  height: 40px;
+  width: 360px;
+  margin-bottom: 20px;
+}
+#form-check {
+  color: var(--800, #2d3748);
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.forgot__pasword {
+  display: flex;
+  margin-top: 40px;
+}
+.forgot {
+  text-decoration: none;
+  margin-left: 90px;
+  font-size: 20px;
+}
+.button__join {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 375px;
+  height: 55px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border-color: #fff;
+  background: #04c35c;
+  margin-top: 30px;
+}
+.button__join2 {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 375px;
+  height: 55px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  border-radius: 5px;
+  background: var(--800, #2d3748);
+}
+.create__accaunt {
+  padding-top: 50px;
+  text-decoration: none;
+  color: var(--700, #2b6cb0);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+h6 {
+  margin-top: 60px;
+}
